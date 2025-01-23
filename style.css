@@ -1,0 +1,12 @@
+body {
+    background-image: url(/images/landscape_nigth.jpg);
+    /* Options: cover, contain, 100% 100%, etc. */
+    /* background-position: center center;  */
+    /* Adjusts image position */
+    background-repeat: no-repeat; 
+    /* Prevents image repetition */
+    background-size: cover ;
+    min-height: 100vh; /* Ensures the body covers the entire viewport height */
+    background-position: center; /* Often useful to center the image */
+
+}
