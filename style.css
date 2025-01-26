@@ -20,7 +20,7 @@
 }
 
 body {
-    background-image: url(/images/landscape_nigth.jpg);
+    background-image: url('./images/landscape_nigth.jpg');
     background-repeat: no-repeat;
     /* Prevents image repetition */
     background-size: cover;
